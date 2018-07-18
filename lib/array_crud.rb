@@ -7,8 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-    element = "arrays!".last
+
       array = ["wow", "I", "am", "really", "learning"]
+    element = "arrays!".last      
 end
 
 def add_element_to_start_of_array(array, wow)
@@ -18,12 +19,12 @@ end
 
 def remove_element_from_end_of_array(array)
     array = ["I", "am", "really", "learning", "arrays!"]
-    dinner[3].pop
+    array[3].pop
 end
 
 def remove_element_from_start_of_array(array)
     array = ["wow", "I", "am", "really", "learning", "arrays!"]
-    array.pop
+    array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
