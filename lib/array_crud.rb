@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(breakfast, coffee)
     breakfast = []
-    "coffee".push <<
+    "coffee".push
 end
 
 def remove_element_from_end_of_array(dinner)
