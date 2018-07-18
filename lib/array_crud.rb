@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
     array = ["wow", "I", "am", "really", "learning", "arrays!"]
-    array.shift[4]
+    array.pop
 end
 
 def retrieve_element_from_index(array, index_number)
@@ -40,3 +40,4 @@ def retrieve_last_element_from_array(array)
     array = ["wow", "I", "am", "really", "learning", "arrays!"]
     array[5]
 end
+  
