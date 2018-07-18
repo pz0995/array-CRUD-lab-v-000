@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(beverage, water)
     beverage = ["diet coke", "pepsi", "coffee", "sparkling water"]
-    "bottled water" <<
+    #{}"bottled water" <<
 end
 
 def add_element_to_start_of_array(breakfast, coffee)
