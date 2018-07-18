@@ -22,10 +22,11 @@ end
 
 def remove_element_from_start_of_array(array)
     lunch = ["fries", "sandwich", "chips", "cookie"]
+    
 end
 
 def retrieve_element_from_index(array, index_number)
-
+    pizza = ["sausage", "pepperoni", "olives", "cheese", "sauce"]
 end
 
 def retrieve_first_element_from_array(array)
