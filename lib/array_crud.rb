@@ -40,4 +40,3 @@ def retrieve_last_element_from_array(stores)
     stores = ["amazon", "target", "walmart", "staples", "whole foods"]
     stores.last
 end
-end
