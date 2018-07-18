@@ -10,7 +10,7 @@ def add_element_to_end_of_array(array, element)
 
     array = ["wow", "I", "am", "really", "learning"]
     element = "arrays!"
-    a << C:\Users\Tiffany Leigh\.atom\.learn-ide\home\pz0995\array-CRUD-lab-v-000\lib\array_crud.rb
+    a << "arrays!"
 end
 
 def add_element_to_start_of_array(array, wow)
