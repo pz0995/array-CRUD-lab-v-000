@@ -7,13 +7,13 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-    element = "arrays!"
+    element = "arrays!".last
       array = ["wow", "I", "am", "really", "learning"]
 end
 
 def add_element_to_start_of_array(array, wow)
     array = ["I", "am", "really", "learning"]
-    "wow".unshift
+    "wow".fist
 end
 
 def remove_element_from_end_of_array(array)
