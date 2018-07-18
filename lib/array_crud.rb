@@ -33,8 +33,10 @@ end
 
 def retrieve_first_element_from_array(gadgets)
     gadgets = ["roku", "fire stick", "iphone", "laptop", "ipad"]
+    gadgets.first
 end
 
 def retrieve_last_element_from_array(stores)
     stores = ["amazon", "target", "walmart", "staples", "whole foods"]
+    stores.last
 end
